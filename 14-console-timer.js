@@ -10,5 +10,4 @@ setTimeout(function(){
 /*
 Output:
 timer: 1002.393ms
-timer: 1001.232ms
 */
